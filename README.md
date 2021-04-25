@@ -5,7 +5,7 @@ KE-EMPAT
 $ pkg install python2
 
 KELIMA🚨
-$ git clone https://github.com/4L13199/LITEDDOS
+$ git clone https://github.com/arkan/LITEDDOS
 
 KE-ENAM🚨
 $ cd LITEDDOS
